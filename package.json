@@ -30,7 +30,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.2",
-    "genkit": "^1.9.0",
+    "genkit": "^1.15.5",
     "genkitx-mcp": "^1.9.0",
     "node-fetch": "^3.3.2",
     "socket.io": "^4.8.1",
