@@ -20,7 +20,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@genkit-ai/googleai": "^1.9.0",
+    "@genkit-ai/googleai": "^1.15.5",
     "@genkit-ai/vertexai": "^1.9.0",
     "@modelcontextprotocol/sdk": "^1.5.0",
     "@types/cors": "^2.8.17",
